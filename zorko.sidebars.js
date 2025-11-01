@@ -25,6 +25,8 @@ const sidebars = {
         'pizza/golden-harvest-pizza',
         'pizza/paneer-bbq-pizza',
         'pizza/the-xplod',
+        'pizza/veg-exotica-pizza',
+        'pizza/margherita-pizza',
         'pizza/pizza-di-sicilia',
       ],
     },
@@ -146,10 +148,61 @@ const sidebars = {
       label: 'Tea & Coffee',
       items: [
         'tea-and-coffees/chocolate-cold-coffee',
-        'tea-and-coffees/strong-cold-coffee'
+        'tea-and-coffees/strong-cold-coffee',
+        'tea-and-coffees/lemon-ice-tea',
+        'tea-and-coffees/peach-ice-tea',
+        'tea-and-coffees/passion-fruit-ice-tea',
+        'tea-and-coffees/cranberry-ice-tea',
+        'tea-and-coffees/american-blue-ice-tea',
+        'tea-and-coffees/premium-cold-coffee'
       ],
     },
+    {
+     type: 'category',
+     label: 'Hot',
+     items: [
+       'hot/hot-chocolate',
+       'hot/hot-coffee',
+     ],
+   },
+   {
+    type: 'category',
+    label: 'Desserts',
+    items: [
+      'desserts/sizzling-brownie',
+      'desserts/special-kulhad-chocolaty-mud-pie',
+    ],
+  },
+  {
+   type: 'category',
+   label: 'Important Recipes',
+   items: [
+     'important-recipes/burger-sauce',
+     'important-recipes/pizza-sauce',
+     'important-recipes/green-chutney',
+     'important-recipes/salsa-sauce',
+   ],
+ },
+ {
+  type: 'category',
+  label: 'Mojito',
+  items: [
+    'mojito/cranberry-mojito',
+    'mojito/passion-mojito',
+    'mojito/rose-petal-mojito',
+    'mojito/peach-mojito',
+    'mojito/blue-heaven-mojito',
+    'mojito/korean-mojito',
+    'mojito/mint-mojito',
+    'mojito/orange-cindrella-mojito',
+    'mojito/tangy-mango-mojito',
+    'mojito/pineapple-punch-mojito',
+    'mojito/strawberry-mojito',
+    'mojito/mary-litchi-mojito',
+    'mojito/surprise-mojito',
   ],
+},
+],
 };
 
 export default sidebars;
