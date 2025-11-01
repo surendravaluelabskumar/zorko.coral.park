@@ -1,0 +1,82 @@
+{
+  "version.label": {
+    "message": "वर्तमान",
+    "description": "The label for the current version"
+  },
+  "sidebar.zorkoSidebar.category.Burger": {
+    "message": "बर्गर",
+    "description": "The label for category Burger in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Pizza": {
+    "message": "पिज़्ज़ा",
+    "description": "The label for category Pizza in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.French Fries": {
+    "message": "फ्रेंच फ्राइज",
+    "description": "The label for category French Fries in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Wraps": {
+    "message": "रैप्स",
+    "description": "The label for category Wraps in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Momo's": {
+    "message": "मोमोज",
+    "description": "The label for category Momo's in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Kulhad": {
+    "message": "कुल्हड़",
+    "description": "The label for category Kulhad in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Nachos": {
+    "message": "नाचोस",
+    "description": "The label for category Nachos in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Garlic Bread": {
+    "message": "गार्लिक ब्रेड",
+    "description": "The label for category Garlic Bread in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Special Buns": {
+    "message": "स्पेशल बन्स",
+    "description": "The label for category Special Buns in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Pasta": {
+    "message": "पास्ता",
+    "description": "The label for category Pasta in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Maggi": {
+    "message": "मैगी",
+    "description": "The label for category Maggi in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Toastie": {
+    "message": "टोस्टी",
+    "description": "The label for category Toastie in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Sandwich": {
+    "message": "सैंडविच",
+    "description": "The label for category Sandwich in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Shakes": {
+    "message": "शेक्स",
+    "description": "The label for category Shakes in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Tea & Coffee": {
+    "message": "चाय और कॉफ़ी",
+    "description": "The label for category Tea & Coffee in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Hot": {
+    "message": "गरम",
+    "description": "The label for category Hot in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Desserts": {
+    "message": "डेसर्ट",
+    "description": "The label for category Desserts in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Important Recipes": {
+    "message": "महत्वपूर्ण रेसिपी",
+    "description": "The label for category Important Recipes in sidebar zorkoSidebar"
+  },
+  "sidebar.zorkoSidebar.category.Mojito": {
+    "message": "मोहितो",
+    "description": "The label for category Mojito in sidebar zorkoSidebar"
+  }
+}

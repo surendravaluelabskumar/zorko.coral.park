@@ -1,0 +1,10 @@
+{
+  "item.label.Zorko": {
+    "message": "ज़ोर्को",
+    "description": "Navbar item with label Zorko"
+  },
+  "item.label.GitHub": {
+    "message": "गिटहब",
+    "description": "Navbar item with label GitHub"
+  }
+}
